@@ -44,5 +44,3 @@ export const environment = {
   viewCodeLink: bootstrapData?.viewCodeLink || '',
   viewCodeMessage: bootstrapData?.viewCodeMessage || '',
 };
-OPENAI_API_KEY="sk-
-AIzaSyB5sLCNwZSffZy6q2pW0TY_eeDtkKWcW_I

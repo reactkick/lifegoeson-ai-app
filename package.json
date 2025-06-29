@@ -18,7 +18,7 @@
     "@angular/fire": "^19.2.0",
     "@angular/forms": "^20.0.2",
     "@angular/material": "^19.2.16",
-    "@angular/platform-browser": "^19.2.11",
+    "@angular/platform-browser": "^20.0.2",
     "@angular/platform-browser-dynamic": "^19.2.11",
     "@tailwindcss/postcss": "^4.1.7",
     "backoff-rxjs": "^7.0.0",

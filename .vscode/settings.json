@@ -1,4 +1,18 @@
 {
     "IDX.aI.enableInlineCompletion": true,
-    "IDX.aI.enableCodebaseIndexing": true
+    "IDX.aI.enableCodebaseIndexing": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "variable.parameter.advpl",
+                    "punctuation.variable.parameter.advpl"
+                ],
+                "settings": {
+                    "foreground": "#868c18",
+                    "fontStyle": "italic bold"
+                }
+            }
+        ]
+    }
 }

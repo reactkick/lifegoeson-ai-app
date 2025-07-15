@@ -1,5 +1,7 @@
 # "Planning with the Gemini API" - a Firebase AI sample app
 
+[![Sample app builds](https://github.com/reactkick/lifegoeson-ai-app/actions/workflows/node.js.yml/badge.svg)](https://github.com/reactkick/lifegoeson-ai-app/actions/workflows/node.js.yml)
+
 Welcome to the _Planning with the Gemini API_ sample app, an AI-powered web app
 for to-do lists! It's an [Angular](https://angular.io/) app built using the
 Gemini Developer API, Firebase AI Logic, and Firestore.
